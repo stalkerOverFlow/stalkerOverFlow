@@ -20,10 +20,23 @@
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+#### 💻 WorkSpace
+<div>
+	<a href="https://www.kernel.org">
+		<img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+	</a>
+	<a href="https://www.android.com"> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+	</a>
+  <a href="https://www.windows.com"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+	</a>
+</div>
+
+<br>
+
 :sparkles: I'm currently learning a bunch of things. <br />
 :bookmark: Actually doing courses. <br />
-:two_hearts: <img src="https://deno.land/logo.svg" alt="denojs" width="20" height="20"/> **DENO** <br />
-
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariohenrlque&layout=compact&langs_count=16&theme=dracula" width="400" />
