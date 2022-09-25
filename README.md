@@ -22,14 +22,11 @@
 
 #### 💻 WorkSpace
 <div>
+	<a href="https://www.windows.com"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+	</a>
 	<a href="https://www.kernel.org">
 		<img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-	</a>
-	<a href="https://www.android.com"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-	</a>
-  <a href="https://www.windows.com"> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 	</a>
 </div>
 
